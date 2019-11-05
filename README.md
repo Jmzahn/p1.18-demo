@@ -73,6 +73,6 @@ Testing out the modules one by one for errors
 
 Testing out entire program for errors
 
-#Demo
+# Demo
 
 https://jmzahn.github.io/p1.18-demo/finalMirror
